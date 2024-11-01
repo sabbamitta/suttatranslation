@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"LanguageTool",
+			"languagetool",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sabbamitta/Schreibtisch/Sutta translation/Committing to git and pushing to GitHub",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Travel details.md",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Sujato 2019-2020",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/Languages on SuttaCentral",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/Downloads",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/Licensing",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/About SuttaCentral",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/Acknowledgements",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/Abbreviations",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/Sutta Numbering",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Menu/Methodology and Sources",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Introduction/Using SuttaCentral offline",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Introduction/SuttaCentral Donations",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sc-essays/Introduction/Introduction to SuttaCentral",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/SuttaCentral Voice v1.7: Voice goes international!",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Technik/Voice Personal Access Token",
+		"/home/sabbamitta/Dokumente/Technik/Festplatte aufräumen",
+		"/home/sabbamitta/Schreibtisch/a-resize",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Sujato personal details/Bhante Sujato personal details",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Technik/AWS Polly",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Technik/Voice Wiki",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Inhaltsverzeichnis",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Technik/When Karl is hit by a cow...",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/Search in repository",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sutta-translation/SN/Sam 10/Indaka/SN 10.8-mit Sudatta",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sutta-translation/SN/Sam 42/SN 42.11 Mit Bhadraka",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sutta-translation/examples-de",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Presse/BA-Artikel",
+		"/home/sabbamitta/Schreibtisch/Today/1 draft",
+		"/home/sabbamitta/Schreibtisch/Today/Betreff: Portierung freigeschaltet [0001455625]",
+		"/home/sabbamitta/Schreibtisch/Today/Building kutis at Tilorien Monastery",
+		"/home/sabbamitta/Schreibtisch/Today/Fundraising Kutis.txt",
+		"/home/sabbamitta/Schreibtisch/Today/letter to Bhante",
+		"/home/sabbamitta/Schreibtisch/Today/Logements monacaux",
+		"/home/sabbamitta/Schreibtisch/Today/Resigning",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sutta-translation/SN/Sam 12/31-40 Kaḷārakhattiya/SN12.31 Das Entstandene",
+		"/home/sabbamitta/Dokumente/SuttaCentral/Vinaya/meine Projekte/Bhikkhu-Vb/Brahmali's files/Sekhiyas, translated vassa 2015.html",
+		"/home/sabbamitta/Dokumente/Technik/Committing to git and pushing to GitHub",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sutta-translation/Agamas/SA 1249/sa1249.html",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sutta-translation/Agamas/SA 1249/SA 1249",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Samyutta Nikaya",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/AWS Polly",
+		"/home/sabbamitta/Schreibtisch/Tilorien/chanting-book/Fehlerdiagnose/README.txt",
+		"/home/sabbamitta/Dokumente/Technik/LanguageTool for Sublime Text",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/MN/MN 33 Die längere Lehrrede über den Kuhhirten",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/MN/MN 23 Der Ameisenhaufen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN12.30 Asketen und Brahmanen (2)",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.29 Asketen und Brahmanen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.28 Mönch oder Nonne",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.27 Bedingungen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.26 Mit Upavāṇa",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.25 Mit Bhūmija",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.24 Anhänger anderer Lehren",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.23 Wesentliche Bedingungen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.22 Die zehn Kräfte (2)",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.21 Die zehn Kräfte",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.20 Bedingungen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.19 Der Kluge und der Tor",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.18 Mit Timbaruka",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.17 Mit Kassapa, dem nackten Asketen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.16 Ein Dhammalehrer",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.15 Kaccānagotta",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.14 Asketen und Brahmanen (2)",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.13 Asketen und Brahmanen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.12 Phagguna mit dem Scheitelknoten",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.11 Brennstoff",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.10 Gotama",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.9 Kassapa",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.8 Koṇāgamana",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.7 Kakusandha",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.6 Vessabhū",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.5 Sikhī",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.4 Über Vipassī",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.3 Übung",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.2 Erläuterung",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN 12.1 Abhängiges Entstehen",
+		"/home/sabbamitta/Dokumente/SuttaCentral/Sutta translation/Random Pali terms",
+		"/home/sabbamitta/Dokumente/Samita ASBL/AGM/2019-agm/Agenda AGM 2019",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/sutta-translation.sublime-project",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/1-10 Buddha/SN12.2",
+		"/home/sabbamitta/Schreibtisch/SN12.2",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 45/SN 45.8 Erläuterung",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Technik/VSM S3 credentials",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/21-30 Dasabala/SN 12.23 Entscheidende Bedingungen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 19 Der Kluge und der Tor",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/DN/DN 21 Sakkas Fragen",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 5/Bhikkhunī/SN 5.2 Mit Somā",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 3/SN 3.1 Jung",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/AN/8/AN 8.6",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/Random Pali terms",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 10/Indaka/SN 10.8-mit Sudatta",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/AN/7/AN 7.36 Ein Freund (1)",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/Samyutta Nikaya",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Presse/BA",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Essays/Interview questions",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Essays/Die Schlange Gurrangatch und der Jäger Mirragan-BA",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Essays/BA",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Technik/Thích Minh Châu   Tiếng Việt",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Essays/Die Schlange Gurrangatch und der Jäger Mirragan",
+		"/home/sabbamitta/Dokumente/Saarland-Gruppe/Retreats/Tagesretreat 2019-09-29/Myth",
+		"/home/sabbamitta/Schreibtisch/Ohne Liebe/Ohne Liebe-de",
+		"/home/sabbamitta/Schreibtisch/SC-Voice/Testing Bhante's recordings:",
+		"/home/sabbamitta/Schreibtisch/Teresia/Teresia Interview",
+		"/home/sabbamitta/Schreibtisch/Teresia/Vereinbarung über das Erteilen einer Erlaubnis",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/AN/7/AN 7.36 Freund oder Freundin (1)",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/The serpent Gurrangatch and the hunter Mirragan",
+		"/home/sabbamitta/.config/sublime-text-3/Packages/User/LanguageTool.sublime-settings",
+		"/home/sabbamitta/.config/sublime-text-3/Packages/languagetool-sublime/LanguageTool.sublime-settings",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 12/11-20 Āhāra/SN 12.14 Asketen und Brahmanen (2.)",
+		"/home/sabbamitta/.config/sublime-text-3/Packages/User/WordCount.sublime-settings",
+		"/home/sabbamitta/.config/sublime-text-3/Packages/WordCount/WordCount.sublime-settings",
+		"/home/sabbamitta/Dokumente/Saarland-Gruppe/Retreats/Tagesretreat 23. Sept.2018/SN 45.8",
+		"/home/sabbamitta/Dokumente/Saarland-Gruppe/Retreats/Tagesretreat 23. Sept.2018/nandiraga",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/MN/3Uparipaṇṇāsa/121-130/MN 121",
+		"/home/sabbamitta/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/sabbamitta/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 5/SN 5.2 Mit Somā",
+		"/home/sabbamitta/Schreibtisch/Ohne Liebe/de/Ohne Liebe-de",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Presse/bhante_sujato_klausur.rtf",
+		"/home/sabbamitta/Schreibtisch/bhante_sujato_klausur.rtf",
+		"/home/sabbamitta/Schreibtisch/Sujato 2019/Harbingers—The right thing to do",
+		"/home/sabbamitta/Musik/Courses/Buddhist mythology Sydney 2019/Links",
+		"/home/sabbamitta/Dokumente/Technik/Compose-Taste",
+		"/home/sabbamitta/Dokumente/Technik/keys f. diacritics/Compose-Taste",
+		"/home/sabbamitta/Schreibtisch/Vereinbarung über das Erteilen einer Erlaubnis",
+		"/home/sabbamitta/Dokumente/SuttaCentral/Vinaya/meine Projekte/Khandhakas/Brahmali's files/Maha khandhaka, 6 Sept. 16.html",
+		"/home/sabbamitta/Schreibtisch/Ohne Liebe-de",
+		"/home/sabbamitta/Dokumente/Technik/Kopieren im terminal"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"deepik",
+			"amin",
+			"github",
+			"forum-moderation",
+			"korrek",
+			"text preparation",
+			"bengali translation",
+			"vagga",
+			"###",
+			"#",
+			"übereinstimmung",
+			"parallele",
+			"pfeil",
+			"encyclopedia"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sa1249.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Schreibtisch/Sutta translation/sutta-translation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
